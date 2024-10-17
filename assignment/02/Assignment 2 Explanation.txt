@@ -1,0 +1,3 @@
+This assignment is a click based game. Generate balls of different colors and sizes by clicking, and let them float and roam in the interface.
+Input content: Click the mouse
+Output content: Balls of different sizes and colors
